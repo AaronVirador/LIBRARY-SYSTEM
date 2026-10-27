@@ -1,0 +1,5 @@
+Clean Code|Robert C. Martin|true
+Java Basics|Herbert Schildt|false
+Java Hard Mode|Aaron|false
+Bible|Virador|false
+Java Hard|Jacob|false
